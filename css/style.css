@@ -280,7 +280,7 @@ a:hover, a:active, a:focus {
 }
 
 .main-home {
-  background: url('../images/360.jpg') no-repeat;
+  background: url('../images/home-bg.jpg') no-repeat;
   height: 100vh;
 }
 
@@ -779,6 +779,9 @@ footer .footer-copyright {
     padding-top: 60px;
     padding-bottom: 60px;
   }
-
+.pano-image{
+	width: 100%;
+	height: 600px;
+}
 }
 
